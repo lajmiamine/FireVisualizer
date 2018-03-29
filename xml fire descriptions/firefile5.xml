@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data>
+<fire>
+	<description>
+	<intesity>high</intesity>
+	<positionX>0</positionX>
+	<positionY>5</positionY>
+	<positionZ>25</positionZ>
+	</description>
+</fire>
+</data>

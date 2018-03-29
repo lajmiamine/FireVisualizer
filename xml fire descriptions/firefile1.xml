@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<data>
+<fire>
+	<description>
+	<intesity>low</intesity>
+	<positionX>-2</positionX>
+	<positionY>5</positionY>
+	<positionZ>-15</positionZ>
+	</description>
+</fire>
+<fire>
+	<description>
+	<intesity>medium</intesity>
+	<positionX>4</positionX>
+	<positionY>5</positionY>
+	<positionZ>-25</positionZ>
+	</description>
+</fire>
+</data>
